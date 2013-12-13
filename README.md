@@ -1,3 +1,21 @@
+Going through CS109 - Data Science from Harvard during the winter break!    
+
+Heads up: my solution may not be correct. Check out the original repo, or the directory `official_solutions`.
+
+Labs and Homework solved:
+
+- [ ] Lab X
+- [ ] Homework 0
+- [ ] Homework 1
+- [ ] Homework 2
+- [ ] Homework 3
+- [ ] Homework 4
+- [ ] Homework 5
+
+Below is the original README from them.
+
+-----------------------------------------------------
+
 Welcome to CS109: Data Science
 =======
 *[Official Course Page](http://cs109.org)*
